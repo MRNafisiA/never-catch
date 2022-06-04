@@ -86,7 +86,7 @@
     "lib": [
       "ES2021"
     ],
-    "target": "ES6",
+    "target": "ES5",
     "noLib": false,
     "emitDecoratorMetadata": false,
     "experimentalDecorators": false,

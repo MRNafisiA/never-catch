@@ -1,6 +1,6 @@
 {
   "name": "never-catch",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A design pattern to implement result in functions.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

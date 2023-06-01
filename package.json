@@ -1,6 +1,6 @@
 {
   "name": "never-catch",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A design pattern to implement result in functions.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -20,7 +20,7 @@
   "author": "MRNafisiA <mnafisiasl@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^17.0.38",
-    "typescript": "^4.7.4"
+    "@types/node": "^20.2.5",
+    "typescript": "^5.0.4"
   }
 }

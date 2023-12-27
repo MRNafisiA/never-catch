@@ -1,26 +1,30 @@
 {
-  "name": "never-catch",
-  "version": "1.0.9",
-  "description": "A design pattern to implement result in functions.",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
-  "files": [
-    "dist/index.d.ts"
-  ],
-  "scripts": {
-    "build": "tsc"
-  },
-  "keywords": [
-    "design-pattern",
-    "design",
-    "pattern",
-    "function"
-  ],
-  "repository": "https://github.com/MRNafisiA/never-catch.git",
-  "author": "MRNafisiA <mnafisiasl@gmail.com>",
-  "license": "MIT",
-  "devDependencies": {
-    "@types/node": "^20.2.5",
-    "typescript": "^4.9.5"
-  }
+    "name": "never-catch",
+    "version": "1.1.0",
+    "description": "A design pattern to implement result in functions.",
+    "keywords": [
+        "design-pattern",
+        "design",
+        "pattern",
+        "function"
+    ],
+    "license": "MIT",
+    "author": "MRNafisiA <mnafisiasl@gmail.com>",
+    "files": [
+        "dist"
+    ],
+    "main": "dist/src/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MRNafisiA/never-catch.git"
+    },
+    "scripts": {
+        "build": "tsc"
+    },
+    "devDependencies": {
+        "@types/node": "^20.2.5",
+        "typescript": "5.3.3",
+        "prettier": "^3.1.1"
+    },
+    "types": "dist/src/index.d.ts"
 }
